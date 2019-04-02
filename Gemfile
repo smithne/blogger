@@ -10,6 +10,9 @@ gem 'sqlite3', '~> 1.3.6'
 
 gem 'nokogiri', '1.10.1'
 
+# for attaching files
+gem "paperclip"
+
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
